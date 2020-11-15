@@ -57,6 +57,13 @@ Elements of the Blogs tab:
 ![alt text](https://user-images.githubusercontent.com/43985601/99190032-487c2e00-278a-11eb-9594-b94bdf88f55c.jpg "Fitness Sub Screens")
 
 
+## Tech Stack/Technologies Used
+* React Native
+* Node.js
+* Google Firebase
+* MongoDb
+
+
 ## Future scopes:
 * Mood detection
 * Add chat between specialists viz. therapists, psychiatrists, social workers, and users.
