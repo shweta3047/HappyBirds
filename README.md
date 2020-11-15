@@ -37,8 +37,8 @@ Elements of the Blogs tab:
     2. Journals: Maintain your personal diary. This feature is accessible offline. See a list of your stories sorted by date. Click on any item to edit it or click on the ‘+’ button to write a new one.
 
 5. Therapists page:
-       1. Categories: A list of types of specialists viz. psychologists, psychiatrists, counsellors, social workers. On clicking any of the items, you can see a full list of the selected category. Visit their profiles by clicking on the arrow next to the ‘Book Appointment’ text.
-       2. Top Therapists: See a list of the therapists. Visit their profiles as mentioned in the ‘Categories’ section
+    1. Categories: A list of types of specialists viz. psychologists, psychiatrists, counsellors, social workers. On clicking any of the items, you can see a full list of the selected category. Visit their profiles by clicking on the arrow next to the ‘Book Appointment’ text.
+    2. Top Therapists: See a list of the therapists. Visit their profiles as mentioned in the ‘Categories’ section
 
 6. Fitness & Lifestyle page: See a list of mental health issues. Tap on an item to explore guidance to get relief from it.
 * On clicking any issue: You can see a list of subcategories.
