@@ -14,6 +14,7 @@ Happy Birds aims to be a **‘one-stop-shop’** app for mental health. From **m
 1. **Signup**: Enter full name, email, age and set a password.
 
 2. **Login**: Login using email id and password.
+![alt text](https://user-images.githubusercontent.com/43985601/99189352-d229fc80-2786-11eb-8983-f7cff007e8a3.jpg "Authentication screens")
 
 3. **Homepage**:
 The homepage consists of the following elements:
@@ -47,6 +48,7 @@ Elements of the Blogs tab:
 
 ## Future scopes:
 * Mood detection
+* Add chat between specialists viz. therapists, psychiatrists, social workers, and users.
 * Add specialists module
 * Add video calling functionality.
 * Add a booking appointment through the app and send a report of your profile along with your appointment request.
