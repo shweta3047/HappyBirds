@@ -19,8 +19,8 @@ Happy Birds aims to be a **‘one-stop-shop’** app for mental health. From **m
 The homepage consists of the following elements:
     1. Profile gist: You can see your name in this area. By clicking the profile icon you can visit your complete profile.
           1.Profile page: See complete profile comprising your details as entered during signup and concerns/issues selected after signup.
-            * See a list of your past and future appointments.
-            * Click on the edit button on top right to edit your details and concerns.
+          * See a list of your past and future appointments.
+          * Click on the edit button on top right to edit your details and concerns.
     2. Tink, the chatbot: By clicking on the ‘Let’s Talk’ you can let Tink try to resolve your issue, which you can select from the list provided by Tink.
     3. Create a meme: Creating memes is equally as helpful as blogging. A good meme requires a lot of creativity. Boost your creativity or destress yourself by creating a meme.
     4. Quote of the day: Consider this as a daily dose of motivation capsuled in a sentence, Quote of the day will show a new inspiration quote everyday.
@@ -28,13 +28,13 @@ The homepage consists of the following elements:
     6. Games to Relax your mind: Who doesn’t love bursting a bubble wrap?! The best ways to deal with stress & anxiety is to walk in rain, popping the bubble, pop the bubble wrap, turn the switch on or off etc. In this section we provide you with all such games.
 
 4. Blogs and Journals Page:
-      1. Blogs: 
+    1. Blogs: 
 Elements of the Blogs tab:
             1. Your Daily read: A list of articles especially curated based on the issues selected by you. 
             2. Popular Stories: List of the latest trending articles.
             3. Post your own story:  An awesome way to connect.  Click on the ‘+’ button to write your own article using our rich text editor. Insert images, videos, links as well. Just click on the ‘Done’ button to make sure your article reaches others too.
 
-   2. Journals: Maintain your personal diary. This feature is accessible offline. See a list of your stories sorted by date. Click on any item to edit it or click on the ‘+’ button to write a new one.
+    2. Journals: Maintain your personal diary. This feature is accessible offline. See a list of your stories sorted by date. Click on any item to edit it or click on the ‘+’ button to write a new one.
 
 5. Therapists page:
        1. Categories: A list of types of specialists viz. psychologists, psychiatrists, counsellors, social workers. On clicking any of the items, you can see a full list of the selected category. Visit their profiles by clicking on the arrow next to the ‘Book Appointment’ text.
