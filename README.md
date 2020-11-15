@@ -17,7 +17,7 @@ Happy Birds aims to be a **‘one-stop-shop’** app for mental health. From **m
 ![alt text](https://user-images.githubusercontent.com/43985601/99189352-d229fc80-2786-11eb-8983-f7cff007e8a3.jpg "Authentication screens")
 
 3. **Homepage**:
-![alt text](https://user-images.githubusercontent.com/43985601/99189363-d9510a80-2786-11eb-9fd9-2f0226dbac90.jpg "Homescreen")
+![alt text](https://user-images.githubusercontent.com/43985601/99190039-4f0aa580-278a-11eb-85ba-281978b8c6af.jpg "Homescreen")
 The homepage consists of the following elements:
     1. ***Profile gist***: You can see your name in this area. By clicking the profile icon you can visit your complete profile.
           1.Profile page: See complete profile comprising your details as entered during signup and concerns/issues selected after signup.
@@ -26,9 +26,9 @@ The homepage consists of the following elements:
           * Click on the edit button on top right to edit your details and concerns.
           ![alt text](https://user-images.githubusercontent.com/43985601/99189358-d6561a00-2786-11eb-8657-9f38f9139324.jpg "Fitness screens")
     2. ***Tink, the chatbot***: By clicking on the ‘Let’s Talk’ you can let Tink try to resolve your issue, which you can select from the list provided by Tink.
-    ![alt text](https://user-images.githubusercontent.com/43985601/99189358-d6561a00-2786-11eb-8657-9f38f9139324.jpg "Fitness screens")
+    ![alt text](https://user-images.githubusercontent.com/43985601/99190037-4d40e200-278a-11eb-8473-ae225d10b035.jpg "Chill with Tink")
     3. ***Create a meme***: Creating memes is equally as helpful as blogging. A good meme requires a lot of creativity. Boost your creativity or destress yourself by creating a meme.
-    ![alt text](https://user-images.githubusercontent.com/43985601/99189358-d6561a00-2786-11eb-8657-9f38f9139324.jpg "Fitness screens")
+    ![alt text](https://user-images.githubusercontent.com/43985601/99190036-4c0fb500-278a-11eb-8f2f-6d8d6d142e6e.jpg "Meme Generator")
     4. ***Quote of the day***: Consider this as a daily dose of motivation capsuled in a sentence, Quote of the day will show a new inspiration quote everyday.
     5. ***Tracks to refresh your mood***: Music has therapeutic powers. To calm your mind, we present you a list of albums from Spotify, sorted to cater to your specific needs.
     ![alt text](https://user-images.githubusercontent.com/43985601/99189365-da823780-2786-11eb-9f2a-1e07f1988e96.jpg "Tracks to refresh your mood from Spotify")
@@ -54,6 +54,7 @@ Elements of the Blogs tab:
 * On clicking any issue: You can see a list of subcategories.
 * By clicking on any sub-category you will visit a page with posts related to the main issue and pertaining to the selected sub-category. Click on any post to view it. 
 ![alt text](https://user-images.githubusercontent.com/43985601/99189358-d6561a00-2786-11eb-8657-9f38f9139324.jpg "Fitness screens")
+![alt text](https://user-images.githubusercontent.com/43985601/99190032-487c2e00-278a-11eb-9594-b94bdf88f55c.jpg "Fitness Sub Screens")
 
 
 ## Future scopes:
