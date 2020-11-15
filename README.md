@@ -43,7 +43,7 @@ Elements of the Blogs tab:
           3. Post your own story:  An awesome way to connect.  Click on the ‘+’ button to write your own article using our rich text editor. Insert images, videos, links as well. Just click on the ‘Done’ button to make sure your article reaches others too.
           ![alt text](https://user-images.githubusercontent.com/43985601/99190519-fb4d8b80-278c-11eb-989d-523ed405ac93.jpg "Blogs and articles")
     2. ***Journals***: Maintain your personal diary. This feature is accessible offline. See a list of your stories sorted by date. Click on any item to edit it or click on the ‘+’ button to write a new one.
-    ![alt text](https://user-images.githubusercontent.com/43985601/99190626-8890e000-278d-11eb-8507-42576403d17e.png "Maintain journals")
+    ![alt text](https://user-images.githubusercontent.com/43985601/99190787-8aa76e80-278e-11eb-9d4e-925abae2e268.jpg "Maintain journals")
 
 5. **Therapists page**:
     1. ***Categories***: A list of types of specialists viz. psychologists, psychiatrists, counsellors, social workers. On clicking any of the items, you can see a full list of the selected category. Visit their profiles by clicking on the arrow next to the ‘Book Appointment’ text.
