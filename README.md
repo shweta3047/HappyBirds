@@ -30,9 +30,9 @@ The homepage consists of the following elements:
 4. **Blogs and Journals Page**:
     1. ***Blogs***: 
 Elements of the Blogs tab:
-            1. Your Daily read: A list of articles especially curated based on the issues selected by you. 
-            2. Popular Stories: List of the latest trending articles.
-            3. Post your own story:  An awesome way to connect.  Click on the ‘+’ button to write your own article using our rich text editor. Insert images, videos, links as well. Just click on the ‘Done’ button to make sure your article reaches others too.
+          1. Your Daily read: A list of articles especially curated based on the issues selected by you. 
+          2. Popular Stories: List of the latest trending articles.
+          3. Post your own story:  An awesome way to connect.  Click on the ‘+’ button to write your own article using our rich text editor. Insert images, videos, links as well. Just click on the ‘Done’ button to make sure your article reaches others too.
 
     2. ***Journals***: Maintain your personal diary. This feature is accessible offline. See a list of your stories sorted by date. Click on any item to edit it or click on the ‘+’ button to write a new one.
 
