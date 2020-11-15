@@ -20,11 +20,10 @@ Happy Birds aims to be a **‘one-stop-shop’** app for mental health. From **m
 ![alt text](https://user-images.githubusercontent.com/43985601/99190039-4f0aa580-278a-11eb-85ba-281978b8c6af.jpg "Homescreen")
 The homepage consists of the following elements:
     1. ***Profile gist***: You can see your name in this area. By clicking the profile icon you can visit your complete profile.
-          1.Profile page: See complete profile comprising your details as entered during signup and concerns/issues selected after signup.
+        1.Profile page: See complete profile comprising your details as entered during signup and concerns/issues selected after signup.
           * See a list of your past and future appointments.
-          ![alt text](https://user-images.githubusercontent.com/43985601/99189358-d6561a00-2786-11eb-8657-9f38f9139324.jpg "Fitness screens")
           * Click on the edit button on top right to edit your details and concerns.
-          ![alt text](https://user-images.githubusercontent.com/43985601/99189358-d6561a00-2786-11eb-8657-9f38f9139324.jpg "Fitness screens")
+         ![alt text](https://user-images.githubusercontent.com/43985601/99190386-52069580-278c-11eb-93b2-fd245f52237a.jpg "Profile page")
     2. ***Tink, the chatbot***: By clicking on the ‘Let’s Talk’ you can let Tink try to resolve your issue, which you can select from the list provided by Tink.
     ![alt text](https://user-images.githubusercontent.com/43985601/99190037-4d40e200-278a-11eb-8473-ae225d10b035.jpg "Chill with Tink")
     3. ***Create a meme***: Creating memes is equally as helpful as blogging. A good meme requires a lot of creativity. Boost your creativity or destress yourself by creating a meme.
@@ -42,13 +41,14 @@ Elements of the Blogs tab:
           1. Your Daily read: A list of articles especially curated based on the issues selected by you. 
           2. Popular Stories: List of the latest trending articles.
           3. Post your own story:  An awesome way to connect.  Click on the ‘+’ button to write your own article using our rich text editor. Insert images, videos, links as well. Just click on the ‘Done’ button to make sure your article reaches others too.
+          ![alt text](https://user-images.githubusercontent.com/43985601/99190519-fb4d8b80-278c-11eb-989d-523ed405ac93.jpg "Blogs and articles")
     2. ***Journals***: Maintain your personal diary. This feature is accessible offline. See a list of your stories sorted by date. Click on any item to edit it or click on the ‘+’ button to write a new one.
-    ![alt text](https://user-images.githubusercontent.com/43985601/99189358-d6561a00-2786-11eb-8657-9f38f9139324.jpg "Fitness screens")
+    ![alt text](https://user-images.githubusercontent.com/43985601/99190626-8890e000-278d-11eb-8507-42576403d17e.png "Maintain journals")
 
 5. **Therapists page**:
     1. ***Categories***: A list of types of specialists viz. psychologists, psychiatrists, counsellors, social workers. On clicking any of the items, you can see a full list of the selected category. Visit their profiles by clicking on the arrow next to the ‘Book Appointment’ text.
     2. ***Top Therapists***: See a list of the therapists. Visit their profiles as mentioned in the ‘Categories’ section
-    ![alt text](https://user-images.githubusercontent.com/43985601/99189358-d6561a00-2786-11eb-8657-9f38f9139324.jpg "Fitness screens")
+    ![alt text](https://user-images.githubusercontent.com/43985601/99190598-6a2ae480-278d-11eb-8cca-fb8cb75d2450.jpg "Professional help")
 
 6. **Fitness & Lifestyle page**: See a list of mental health issues. Tap on an item to explore guidance to get relief from it.
 * On clicking any issue: You can see a list of subcategories.
